@@ -45,7 +45,7 @@ max-width: 610px;
  
 ul {
 list-style-type: square;
-font-size: 0.9em;
+font-size: 1.2em;
 color: #F5F5F5;
 font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
 line-height: 1.25em;
@@ -58,7 +58,7 @@ max-width: 610px;
 }
  
 .p1 {
-font-size: 1.1em;
+font-size: 1.4em;
 color: #F5F5F5;
 font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
 line-height: 1.25em;
